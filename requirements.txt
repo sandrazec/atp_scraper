@@ -1,1 +1,6 @@
+python3 -m venv venv
+source venv\Scripts\activate
+
+pip install pandas selenium beautifulsoup4 webdriver-manager
+
 
